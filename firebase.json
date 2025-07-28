@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "abdul-portfolio-xs320",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
