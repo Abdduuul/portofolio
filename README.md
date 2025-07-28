@@ -4,28 +4,23 @@ This repository contains the code for my personal portfolio website.
 
 [![View Live Demo](https://img.shields.io/badge/View%20Live-Demo-brightgreen)](https://abdul-portfolio-xs320.web.app)
 
-## About Me
+## Overview
 
-I am a passionate web developer specializing in building modern, responsive, and beautiful web applications. I excel at turning ideas into reality through clean code and creating great user experiences. As a frontend developer, I have a strong foundation in HTML, CSS, and JavaScript, with a passion for creating intuitive and dynamic user interfaces.
+This project is a modern, responsive, and interactive personal portfolio website built with HTML, Tailwind CSS, and plain JavaScript. The goal is to create a visually appealing and professional-looking portfolio to showcase projects and skills.
 
-## Projects
+## Implemented Features (Portfolio v1)
 
-My portfolio showcases a selection of my work:
+*   **Styling:** Uses Tailwind CSS for a utility-first styling approach.
+*   **Structure:** A single-page layout with the following sections:
+    *   Header with navigation
+    *   Hero section
+    *   About Me section
+    *   Projects section
+    *   Contact section
+    *   Footer
+*   **Responsiveness:** Fully responsive design that works on mobile, tablet, and desktop screens.
+*   **Interactivity:** A mobile navigation menu that can be toggled (using Alpine.js).
 
-* **Project 1:** A project demonstrating modern web layout techniques.
-* **Project 2:** An application featuring interactive elements and API integrations, built with a focus on performance.
-* **Project 3:** A portfolio piece that highlights my design skills and attention to detail in CSS.
+## Current Plan: Revert AI Chat Feature
 
-You can find links to live demos and source code for each project on my portfolio website.
-
-## Skills
-
-* HTML
-* CSS
-* JavaScript
-* Frontend Development
-* Responsive Design
-
-## Get In Touch
-
-I am currently available for freelance work and am open to new opportunities. Please feel free to get in touch with me via the contact information on my portfolio website.
+The user has requested to undo the addition of the AI Chat feature. The project has been reverted to its previous state.
