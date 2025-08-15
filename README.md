@@ -68,7 +68,7 @@ Berikut adalah beberapa fitur yang akan saya tambahkan di masa mendatang:
 Saya selalu terbuka untuk diskusi, kolaborasi, atau peluang kerja. Jangan ragu untuk menghubungi saya melalui:
 
 *   **Email:** [badlimau1@gmail.com](badlimau1@gmail.com)
-*   **LinkedIn:** [Abdduul_]([https://linkedin.com/in/usernameanda](https://www.linkedin.com/in/abdul-halim5/))
+*   **LinkedIn:** [Abdduul_](https://www.linkedin.com/in/abdul-halim5/)
 *   **Instagram:** [Abdduul](https://www.instagram.com/abdduul_)
 
 ## 📄 Lisensi
